@@ -1,7 +1,6 @@
 # Customer Segmentation Analysis Using DBSCAN
-## Patrick Ayers
 
-### Project Overview
+## Project Overview
 The goal of this project was to see if using DBSCAN on customer data would produce meaningful clusters of customers.
 I will also being running a standord k-means clusting algorithum. Both algorithums produced meaningful groups of customers
 the DBSCAN was able to produces small and more tightly knit groups of customers. One downside of the DBSCAN algorithum is that
@@ -10,17 +9,17 @@ kNNdistplot that is in the dbscan library, but this still required some guess an
 for both epsilon and the niniumn number of points.
 
 
-### Data Files
+## Data Files
 
-#### halfmoon_example.csv
+### halfmoon_example.csv
 This file has the data that is needed to run the Halfmoon_Example file.
 
-#### Marketing_campaign.csv
+### Marketing_campaign.csv
 This file has the data that is used for the DBSCAN anlaysis.
 
-### R Files
+## R Files
 
-#### Halfmoon_Example.R
+### Halfmoon_Example.R
 This file has the code that is used to produce the following plot as exmaple of the difference between
 k-means clustering and DBSCAN clustering <br />
 
@@ -29,7 +28,7 @@ k-means clustering and DBSCAN clustering <br />
 
 <br />
 
-#### Data Exploration and DBSCAN Analysis.R
+### Data Exploration and DBSCAN Analysis.R
 
 This file has the code that was used in the analysis for the marketing campaign data. It will go through 
 all of the steps of data cleaning and explorations, running both the k-menas clustering, running the
