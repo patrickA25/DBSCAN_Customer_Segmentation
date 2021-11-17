@@ -22,9 +22,19 @@ This file has the data that is used for the DBSCAN anlaysis.
 
 #### Halfmoon_Example.R
 This file has the code that is used to produce the following plot as exmaple of the difference between
-k-means clustering and DBSCAN clustering
+k-means clustering and DBSCAN clustering <br />
+
+
+<img align="left" alt="DBSCAN" width="7000px" src="https://github.com/patrickA25/patrickA25/blob/assets/DBSCAN_Principle.png" /> 
+
+<br />
 
 #### Data Exploration and DBSCAN Analysis.R
+
 This file has the code that was used in the analysis for the marketing campaign data. It will go through 
 all of the steps of data cleaning and explorations, running both the k-menas clustering, running the
 DBSCAN, and procduing the following 3D graphics. 
+
+
+<img align="left" alt="DBSCAN" width ="450px" src="https://github.com/patrickA25/patrickA25/blob/assets/DBSCAN_plot1.png" />
+<img align="left" alt="DBSCAN" width="450px" src="https://github.com/patrickA25/patrickA25/blob/assets/k_means_3d_plot3.png" />
