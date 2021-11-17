@@ -1,1 +1,2 @@
-# DBSCAN_Customer_Segmentation
+# Customer Segmentation Analysis Using DBSCAN
+## Patrick Ayers
