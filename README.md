@@ -35,5 +35,5 @@ all of the steps of data cleaning and explorations, running both the k-menas clu
 DBSCAN, and procduing the following 3D graphics. 
 
 
-<img align="left" alt="DBSCAN" width ="450px" src="https://github.com/patrickA25/patrickA25/blob/assets/DBSCAN_plot1.png" />
-<img align="left" alt="DBSCAN" width="450px" src="https://github.com/patrickA25/patrickA25/blob/assets/k_means_3d_plot3.png" />
+<img align="left" alt="DBSCAN" width ="400px" src="https://github.com/patrickA25/patrickA25/blob/assets/DBSCAN_plot1.png" />
+<img align="left" alt="DBSCAN" width="400px" src="https://github.com/patrickA25/patrickA25/blob/assets/k_means_3d_plot3.png" />
