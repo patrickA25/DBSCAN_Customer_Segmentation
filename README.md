@@ -32,8 +32,10 @@ k-means clustering and DBSCAN clustering <br />
 
 This file has the code that was used in the analysis for the marketing campaign data. It will go through 
 all of the steps of data cleaning and explorations, running both the k-menas clustering, running the
-DBSCAN, and procduing the following 3D graphics. 
+DBSCAN, and procduing the following 3D graphics. It will also run the K-NN plot that will help choose the value
+of epsilon and min number of data points.
 
 
 <img align="left" alt="DBSCAN" width ="400px" src="https://github.com/patrickA25/patrickA25/blob/assets/DBSCAN_plot1.png" />
 <img align="left" alt="DBSCAN" width="400px" src="https://github.com/patrickA25/patrickA25/blob/assets/k_means_3d_plot3.png" />
+<img align="left" alt="DBSCAN" width="400px" src="https://github.com/patrickA25/patrickA25/blob/assets/kNN_dist_plot.png" />
